@@ -38,5 +38,6 @@ Ce projet Arduino propose un syst√®me de tri et de rangement automatique des pi√
 
 ![schema_4](img/4.png)
 
-Moteur utiliser dans la version 2 du code
+### Moteur utiliser dans la version 2 du code
+
 ![schema_4](img/moteur.webp)
